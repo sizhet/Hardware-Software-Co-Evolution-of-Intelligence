@@ -82,6 +82,30 @@ This repository calls that broader framework:
 
 ---
 
+![Fig-000-HSCI-Grand-Map.png](./docs/figures/Fig-000-HSCI-Grand-Map.png)
+
+---
+
+![Fig-001-Intelligence-Before-Representation.png](./docs/figures/Fig-001-Intelligence-Before-Representation.png)
+
+---
+
+![Fig-002-Evolutionary-MET-and-Intelligence-Placement.png](./docs/figures/Fig-002-Evolutionary-MET-and-Intelligence-Placement.png)
+
+---
+
+![Fig-003-Resonance-Anchor-Trigger-Organizer.png](./docs/figures/Fig-003-Resonance-Anchor-Trigger-Organizer.png)
+
+---
+
+![Fig-004-Hardware-Software-Co-Evolution-Loop.png](./docs/figures/Fig-004-Hardware-Software-Co-Evolution-Loop.png)
+
+---
+
+![Fig-005-Autonomous-Drone-Multi-Substrate-Intelligence.png](./docs/figures/Fig-005-Autonomous-Drone-Multi-Substrate-Intelligence.png)
+
+---
+
 # 1. Why HSCI?
 
 AI is commonly discussed as software intelligence.
