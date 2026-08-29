@@ -1,0 +1,70 @@
+cff-version: 1.2.0
+message: "If you use this repository in your research, please cite it using the metadata below."
+
+title: "Structural Theory of AI Reasoning — From LLM Unfolding to Structural Localization and Living Reasoning"
+
+type: software
+
+authors:
+  - family-names: "Tan"
+    given-names: "Sizhe"
+
+abstract: >-
+  Structural Theory of AI Reasoning develops a structural explanation of AI reasoning
+  that connects the latent and distributed reasoning capabilities of Large Language
+  Models with the explicit localization, traversal, gap bridging, forward extension,
+  validation, persistence, and structural growth mechanisms of Structural Intelligence.
+  The repository distinguishes reasoning answers from reasoning structure growth,
+  interprets LLM reasoning through a Folding–Unfolding framework, introduces the
+  complementary relation between LLM Unfolding and Structural Intelligence Localization,
+  and develops a Living Reasoning Loop in which validated reasoning outputs can become
+  persistent infrastructure for future reasoning. It further explores future reasoning
+  architectures based on heterogeneous Per-Node intelligence, Calling Graphs, TaskGraphs,
+  Action Calling Graphs, Structural Runtimes, Runtime Invariants, specialized Unfolding
+  engines, and governed autonomous structural growth.
+
+keywords:
+  - "AI Reasoning"
+  - "Structural Intelligence"
+  - "Large Language Models"
+  - "LLM Reasoning"
+  - "Structural Reasoning"
+  - "Folding"
+  - "Unfolding"
+  - "Structural Localization"
+  - "Localization"
+  - "Living Reasoning"
+  - "Reasoning Structure"
+  - "Structural Growth"
+  - "Calling Graph"
+  - "TaskGraph"
+  - "Action Calling Graph"
+  - "Gap Bridging"
+  - "Forward Extension"
+  - "Per-Node Intelligence"
+  - "CCC"
+  - "Runtime Invariant"
+  - "Structural Runtime"
+  - "Autonomous Structural Intelligence"
+  - "Collective Learning"
+
+repository-code: "https://github.com/sizhet/Structural-Theory-of-AI-Reasoning"
+
+url: "https://github.com/sizhet/Structural-Theory-of-AI-Reasoning"
+
+license: "Apache-2.0"
+
+version: "1.0.0"
+
+date-released: "2026-08-27"
+
+preferred-citation:
+  type: generic
+  title: "Structural Theory of AI Reasoning — From LLM Unfolding to Structural Localization and Living Reasoning"
+  authors:
+    - family-names: "Tan"
+      given-names: "Sizhe"
+  year: 2026
+  version: "1.0.0"
+  url: "https://github.com/sizhet/Structural-Theory-of-AI-Reasoning"
+  doi: 10.5281/zenodo.22133751
