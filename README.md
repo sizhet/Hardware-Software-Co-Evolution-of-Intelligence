@@ -86,26 +86,6 @@ This repository calls that broader framework:
 
 ---
 
-![Fig-001-Intelligence-Before-Representation.png](./docs/figures/Fig-001-Intelligence-Before-Representation.png)
-
----
-
-![Fig-002-Evolutionary-MET-and-Intelligence-Placement.png](./docs/figures/Fig-002-Evolutionary-MET-and-Intelligence-Placement.png)
-
----
-
-![Fig-003-Resonance-Anchor-Trigger-Organizer.png](./docs/figures/Fig-003-Resonance-Anchor-Trigger-Organizer.png)
-
----
-
-![Fig-004-Hardware-Software-Co-Evolution-Loop.png](./docs/figures/Fig-004-Hardware-Software-Co-Evolution-Loop.png)
-
----
-
-![Fig-005-Autonomous-Drone-Multi-Substrate-Intelligence.png](./docs/figures/Fig-005-Autonomous-Drone-Multi-Substrate-Intelligence.png)
-
----
-
 # 1. Why HSCI?
 
 AI is commonly discussed as software intelligence.
@@ -159,6 +139,10 @@ That is where HSCI begins.
 ---
 
 # 2. Intelligence Before Representation
+
+
+![Fig-001-Intelligence-Before-Representation.png](./docs/figures/Fig-001-Intelligence-Before-Representation.png)
+
 
 The central theoretical proposition of this repository is:
 
@@ -347,6 +331,9 @@ rather than:
 ---
 
 # 6. Resonance, Salience, and Valence
+
+
+![Fig-003-Resonance-Anchor-Trigger-Organizer.png](./docs/figures/Fig-003-Resonance-Anchor-Trigger-Organizer.png)
 
 Resonance is especially interesting because physical structure can selectively amplify certain environmental patterns.
 
@@ -610,6 +597,8 @@ rather than a single model.
 
 # 14. Per-Function Intelligence Placement
 
+![Fig-002-Evolutionary-MET-and-Intelligence-Placement.png](./docs/figures/Fig-002-Evolutionary-MET-and-Intelligence-Placement.png)
+
 The central engineering question becomes:
 
 > **Where should each intelligent function live?**
@@ -777,6 +766,8 @@ A useful compact principle is:
 ---
 
 # 18. Hardware–Software Co-Evolution
+
+![Fig-004-Hardware-Software-Co-Evolution-Loop.png](./docs/figures/Fig-004-Hardware-Software-Co-Evolution-Loop.png)
 
 The two directions form a loop:
 
@@ -990,6 +981,9 @@ The principle becomes:
 ---
 
 # 24. Autonomous Drones: Canonical Engineering Testbed
+
+
+![Fig-005-Autonomous-Drone-Multi-Substrate-Intelligence.png](./docs/figures/Fig-005-Autonomous-Drone-Multi-Substrate-Intelligence.png)
 
 Autonomous drones provide a particularly strong HSCI test environment.
 
