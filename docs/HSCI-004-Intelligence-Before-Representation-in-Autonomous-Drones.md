@@ -87,6 +87,14 @@ It is to test a narrower and more practical hypothesis:
 
 ---
 
+![Fig-001-Intelligence-Before-Representation.png](./figures/Fig-001-Intelligence-Before-Representation.png)
+
+---
+
+![Fig-005-Autonomous-Drone-Multi-Substrate-Intelligence.png](./figures/Fig-005-Autonomous-Drone-Multi-Substrate-Intelligence.png)
+
+---
+
 # 1. Why Autonomous Drones?
 
 HSCI is a general intelligence architecture.

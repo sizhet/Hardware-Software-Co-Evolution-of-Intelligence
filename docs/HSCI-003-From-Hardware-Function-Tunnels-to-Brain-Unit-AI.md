@@ -59,6 +59,18 @@ The central engineering principle is:
 
 ---
 
+![Fig-002-Evolutionary-MET-and-Intelligence-Placement.png](./figures/Fig-002-Evolutionary-MET-and-Intelligence-Placement.png)
+
+---
+
+![Fig-004-Hardware-Software-Co-Evolution-Loop.png](./figures/Fig-004-Hardware-Software-Co-Evolution-Loop.png)
+
+---
+
+![Fig-005-Autonomous-Drone-Multi-Substrate-Intelligence.png](./figures/Fig-005-Autonomous-Drone-Multi-Substrate-Intelligence.png)
+
+---
+
 # 1. Introduction
 
 Modern AI architecture often concentrates intelligence in a relatively small number of computational substrates.

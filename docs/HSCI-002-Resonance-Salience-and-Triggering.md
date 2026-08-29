@@ -59,6 +59,14 @@ The resulting framework provides a theoretical foundation for Hardware Intellige
 
 ---
 
+![Fig-001-Intelligence-Before-Representation.png](./figures/Fig-001-Intelligence-Before-Representation.png)
+
+---
+
+![Fig-003-Resonance-Anchor-Trigger-Organizer.png](./figures/Fig-003-Resonance-Anchor-Trigger-Organizer.png)
+
+---
+
 # 1. Introduction
 
 A large part of modern AI begins from representation.

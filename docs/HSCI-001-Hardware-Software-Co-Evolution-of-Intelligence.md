@@ -49,6 +49,22 @@ The resulting framework connects evolutionary intelligence, hardware specializat
 
 ---
 
+![Fig-000-HSCI-Grand-Map.png](./figures/Fig-000-HSCI-Grand-Map.png)
+
+---
+
+![Fig-001-Intelligence-Before-Representation.png](./figures/Fig-001-Intelligence-Before-Representation.png)
+
+---
+
+![Fig-002-Evolutionary-MET-and-Intelligence-Placement.png](./figures/Fig-002-Evolutionary-MET-and-Intelligence-Placement.png)
+
+---
+
+![Fig-004-Hardware-Software-Co-Evolution-Loop.png](./figures/Fig-004-Hardware-Software-Co-Evolution-Loop.png)
+
+---
+
 # 1. Introduction
 
 Artificial intelligence is usually discussed as computation.
