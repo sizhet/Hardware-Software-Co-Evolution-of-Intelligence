@@ -1,70 +1,70 @@
 cff-version: 1.2.0
-message: "If you use this repository in your research, please cite it using the metadata below."
-
-title: "Structural Theory of AI Reasoning — From LLM Unfolding to Structural Localization and Living Reasoning"
-
+message: "If you use this work, please cite it using the metadata below."
+title: "Hardware–Software Co-Evolution of Intelligence"
 type: software
+version: "1.0.0"
+date-released: "2026-08-29"
 
 authors:
   - family-names: "Tan"
     given-names: "Sizhe"
 
-abstract: >-
-  Structural Theory of AI Reasoning develops a structural explanation of AI reasoning
-  that connects the latent and distributed reasoning capabilities of Large Language
-  Models with the explicit localization, traversal, gap bridging, forward extension,
-  validation, persistence, and structural growth mechanisms of Structural Intelligence.
-  The repository distinguishes reasoning answers from reasoning structure growth,
-  interprets LLM reasoning through a Folding–Unfolding framework, introduces the
-  complementary relation between LLM Unfolding and Structural Intelligence Localization,
-  and develops a Living Reasoning Loop in which validated reasoning outputs can become
-  persistent infrastructure for future reasoning. It further explores future reasoning
-  architectures based on heterogeneous Per-Node intelligence, Calling Graphs, TaskGraphs,
-  Action Calling Graphs, Structural Runtimes, Runtime Invariants, specialized Unfolding
-  engines, and governed autonomous structural growth.
+abstract: >
+  Hardware–Software Co-Evolution of Intelligence (HSCI) proposes that
+  intelligence does not necessarily begin with complete internal
+  representation. Physical and sensory differences may already become
+  intelligence-relevant when they create structural consequences such as
+  salience, triggering, routing, state change, control activation, or action.
+  The framework develops Intelligence Before Representation, the Structural
+  Consequence Boundary, Hardware and Pre-Representational Intelligence
+  Primitives, Hardware Function Tunnels, Per-Function Intelligence Placement,
+  Selective Upward Escalation, Downward Structural Consolidation, and
+  multi-substrate Brain-Unit AI. Autonomous drones are proposed as a canonical
+  engineering testbed for measuring the trade-offs among energy, latency,
+  computation, representation cost, reliability, and safety.
 
 keywords:
-  - "AI Reasoning"
+  - "Hardware–Software Co-Evolution of Intelligence"
+  - "HSCI"
+  - "Intelligence Before Representation"
+  - "Hardware Intelligence"
   - "Structural Intelligence"
-  - "Large Language Models"
-  - "LLM Reasoning"
-  - "Structural Reasoning"
-  - "Folding"
-  - "Unfolding"
-  - "Structural Localization"
-  - "Localization"
-  - "Living Reasoning"
-  - "Reasoning Structure"
-  - "Structural Growth"
-  - "Calling Graph"
-  - "TaskGraph"
-  - "Action Calling Graph"
-  - "Gap Bridging"
-  - "Forward Extension"
-  - "Per-Node Intelligence"
-  - "CCC"
-  - "Runtime Invariant"
-  - "Structural Runtime"
-  - "Autonomous Structural Intelligence"
-  - "Collective Learning"
-
-repository-code: "https://github.com/sizhet/Structural-Theory-of-AI-Reasoning"
-
-url: "https://github.com/sizhet/Structural-Theory-of-AI-Reasoning"
+  - "Structural Consequence Boundary"
+  - "SCB"
+  - "Hardware Intelligence Primitive"
+  - "Pre-Representational Intelligence Primitive"
+  - "Hardware Function Tunnel"
+  - "Function Tunnel"
+  - "Intelligence Placement"
+  - "Per-Function Intelligence Placement"
+  - "Multi-Substrate Intelligence"
+  - "Structural Recognition"
+  - "Salience"
+  - "Resonance"
+  - "Brain-Unit AI"
+  - "Emergency Intelligence"
+  - "Autonomous Drones"
+  - "Structural Continual Learning"
 
 license: "Apache-2.0"
 
-version: "1.0.0"
-
-date-released: "2026-08-27"
+repository-code: "https://github.com/sizhet/Hardware-Software-Co-Evolution-of-Intelligence"
 
 preferred-citation:
-  type: generic
-  title: "Structural Theory of AI Reasoning — From LLM Unfolding to Structural Localization and Living Reasoning"
+  type: software
+  title: "Hardware–Software Co-Evolution of Intelligence"
+  version: "1.0.0"
+  date-released: "2026-08-29"
   authors:
     - family-names: "Tan"
       given-names: "Sizhe"
-  year: 2026
-  version: "1.0.0"
-  url: "https://github.com/sizhet/Structural-Theory-of-AI-Reasoning"
-  doi: 10.5281/zenodo.22133751
+  repository-code: "https://github.com/sizhet/Hardware-Software-Co-Evolution-of-Intelligence"
+  abstract: >
+    Hardware–Software Co-Evolution of Intelligence (HSCI) develops a
+    multi-substrate view of intelligence in which physical selectivity,
+    resonance, salience, structural triggering, Function Tunnels, neural
+    computation, world models, and generative reasoning can cooperate across
+    different layers and timescales. Its foundational hypothesis is that
+    intelligence may begin before general representation when a physical or
+    sensory difference acquires structural consequence.
+
