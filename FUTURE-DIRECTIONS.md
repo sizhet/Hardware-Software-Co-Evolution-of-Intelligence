@@ -8,8 +8,6 @@
 **Version:** 1.0
 **Date:** 2026
 
----
-
 # 1. Purpose
 
 The first HSCI research cycle establishes four connected ideas:
@@ -60,6 +58,10 @@ Structural Learning
         ↓
 Engineering Validation
 ```
+
+---
+
+![Fig-004-Hardware-Software-Co-Evolution-Loop.png](./docs/figures/Fig-004-Hardware-Software-Co-Evolution-Loop.png)
 
 ---
 
@@ -1031,6 +1033,12 @@ The ladder should be reversible.
 ---
 
 # 27. Future Direction 25 — Autonomous Drone Validation Program
+
+---
+
+![Fig-005-Autonomous-Drone-Multi-Substrate-Intelligence.png](./docs/figures/Fig-005-Autonomous-Drone-Multi-Substrate-Intelligence.png)
+
+---
 
 Autonomous drones remain the most immediate engineering testbed.
 

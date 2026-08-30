@@ -11,6 +11,10 @@
 
 ---
 
+![Fig-000-HSCI-Grand-Map.png](./docs/figures/Fig-000-HSCI-Grand-Map.png)
+
+---
+
 # 1. The Shortest Possible Introduction
 
 This repository starts from one question:
@@ -58,6 +62,10 @@ The central proposition is:
 That idea is called:
 
 # Intelligence Before Representation
+
+---
+
+![Fig-001-Intelligence-Before-Representation.png](./docs/figures/Fig-001-Intelligence-Before-Representation.png)
 
 ---
 
