@@ -402,7 +402,7 @@ For an intelligence function \(F\):
 
 $$
 P^*(F)
-=
+\coloneqq
 \arg\min_{P \in \mathcal{P}}
 J(F,P)
 $$
@@ -411,7 +411,7 @@ where:
 
 $$
 \mathcal{P}
-=
+\coloneqq
 \{
 P_{\text{physical}},
 P_{\text{sensor}},
@@ -429,7 +429,7 @@ A conceptual objective is:
 
 $$
 J(F,P)
-=
+\coloneqq
 \alpha E
 +
 \beta L

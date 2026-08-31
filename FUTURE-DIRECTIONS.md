@@ -131,7 +131,7 @@ A conceptual structural-consequence score might therefore take the form:
 
 $$
 SC
-=
+\coloneqq
 w_r \Delta R
 +
 w_s \Delta S
@@ -275,7 +275,7 @@ A candidate hardware score might consider:
 
 $$
 H(F)
-=
+\coloneqq
 w_1 U
 +
 w_2 S
@@ -464,7 +464,7 @@ A useful system-level quantity could be:
 
 $$
 C_{rep}
-=
+\coloneqq
 C_{sense}
 +
 C_{convert}
@@ -503,7 +503,7 @@ A future benchmark might define:
 
 $$
 SIR
-=
+\coloneqq
 \frac{
 \text{Useful Structural Decisions}
 }{

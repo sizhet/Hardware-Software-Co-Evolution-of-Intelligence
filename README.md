@@ -616,7 +616,7 @@ A conceptual objective may include:
 
 $$
 J
-=
+\coloneqq
 \alpha E
 +
 \beta L
