@@ -1678,3 +1678,28 @@ It may also depend on discovering:
 **From Physical Resonance and Salience to Structural Triggering and Cognitive Intelligence**
 
 > **The future of AI may depend not only on building larger models, but on placing smaller forms of intelligence at the right physical and structural locations.**
+
+
+---
+
+## Author
+
+Sizhe Tan\
+Independent Researcher
+
+GPT-Obot\
+AI Research Assistant
+
+2026
+
+DOI: TBD
+    
+---
+
+## 📚 DBM-SI Series Navigation
+
+See:\
+[./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md](./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md)
+
+[./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Structural-Intelligence-Dictionary-(v2).md](./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Structural-Intelligence-Dictionary-(v2).md)
+
