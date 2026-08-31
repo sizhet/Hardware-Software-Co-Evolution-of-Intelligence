@@ -1403,7 +1403,7 @@ A canonical decision may include:
 
 $$
 Route
-=
+\coloneqq
 f(
 Urgency,
 Risk,

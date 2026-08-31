@@ -358,7 +358,7 @@ A conceptual objective can include:
 
 $$
 J
-=
+\coloneqq
 \alpha E
 +
 \beta L

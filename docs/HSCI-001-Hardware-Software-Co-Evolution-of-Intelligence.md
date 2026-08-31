@@ -787,7 +787,7 @@ where a conceptual cost function may include:
 
 $$
 J(F,P)
-=
+\coloneqq
 \alpha E
 +
 \beta L
