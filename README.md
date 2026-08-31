@@ -607,7 +607,7 @@ For an intelligence function \(F\):
 
 $$
 P^*(F)
-=
+\coloneqq
 \arg\min_{P}
 J(F,P)
 $$

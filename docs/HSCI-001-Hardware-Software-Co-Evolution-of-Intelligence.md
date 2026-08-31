@@ -786,7 +786,7 @@ Instead, choose an implementation substrate \(P\):
 
 $$
 P^*(F)
-=
+\coloneqq
 \arg\min_{P}
 J(F,P)
 $$

@@ -347,7 +347,7 @@ For a function \(F\), HSCI asks:
 
 $$
 P^*(F)
-=
+\coloneqq
 \arg\min_{P}
 J(F,P)
 $$
