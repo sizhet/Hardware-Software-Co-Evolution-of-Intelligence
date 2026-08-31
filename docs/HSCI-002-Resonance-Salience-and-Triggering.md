@@ -59,14 +59,6 @@ The resulting framework provides a theoretical foundation for Hardware Intellige
 
 ---
 
-![Fig-001-Intelligence-Before-Representation.png](./figures/Fig-001-Intelligence-Before-Representation.png)
-
----
-
-![Fig-003-Resonance-Anchor-Trigger-Organizer.png](./figures/Fig-003-Resonance-Anchor-Trigger-Organizer.png)
-
----
-
 # 1. Introduction
 
 A large part of modern AI begins from representation.
@@ -184,6 +176,8 @@ It is:
 ---
 
 # 3. Intelligence Before Representation
+
+![Fig-001-Intelligence-Before-Representation.png](./figures/Fig-001-Intelligence-Before-Representation.png)
 
 Consider the following sequence:
 
@@ -1423,6 +1417,9 @@ This provides a new interpretation of the transition from environment to intelli
 ---
 
 # 31. Structural Organization Before Semantics
+
+
+![Fig-003-Resonance-Anchor-Trigger-Organizer.png](./figures/Fig-003-Resonance-Anchor-Trigger-Organizer.png)
 
 One of the most important implications of this framework is:
 

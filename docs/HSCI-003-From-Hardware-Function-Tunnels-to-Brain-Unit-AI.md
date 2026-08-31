@@ -63,14 +63,6 @@ The central engineering principle is:
 
 ---
 
-![Fig-004-Hardware-Software-Co-Evolution-Loop.png](./figures/Fig-004-Hardware-Software-Co-Evolution-Loop.png)
-
----
-
-![Fig-005-Autonomous-Drone-Multi-Substrate-Intelligence.png](./figures/Fig-005-Autonomous-Drone-Multi-Substrate-Intelligence.png)
-
----
-
 # 1. Introduction
 
 Modern AI architecture often concentrates intelligence in a relatively small number of computational substrates.
@@ -1499,6 +1491,8 @@ This turns resource conditions into part of intelligence routing.
 
 # 36. Autonomous Drones
 
+![Fig-005-Autonomous-Drone-Multi-Substrate-Intelligence.png](./figures/Fig-005-Autonomous-Drone-Multi-Substrate-Intelligence.png)
+
 Autonomous drones are a particularly strong testbed for this architecture because they operate under simultaneous constraints:
 
 ```text id="9bj0g6"
@@ -1877,6 +1871,8 @@ Thus Function Tunnels can themselves evolve.
 ---
 
 # 45. Hardware–Software Co-Evolution Runtime
+
+![Fig-004-Hardware-Software-Co-Evolution-Loop.png](./figures/Fig-004-Hardware-Software-Co-Evolution-Loop.png)
 
 The full cycle becomes:
 

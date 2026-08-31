@@ -53,18 +53,6 @@ The resulting framework connects evolutionary intelligence, hardware specializat
 
 ---
 
-![Fig-001-Intelligence-Before-Representation.png](./figures/Fig-001-Intelligence-Before-Representation.png)
-
----
-
-![Fig-002-Evolutionary-MET-and-Intelligence-Placement.png](./figures/Fig-002-Evolutionary-MET-and-Intelligence-Placement.png)
-
----
-
-![Fig-004-Hardware-Software-Co-Evolution-Loop.png](./figures/Fig-004-Hardware-Software-Co-Evolution-Loop.png)
-
----
-
 # 1. Introduction
 
 Artificial intelligence is usually discussed as computation.
@@ -295,6 +283,8 @@ This suggests a basic principle:
 ---
 
 # 5. Intelligence Before Representation
+
+![Fig-001-Intelligence-Before-Representation.png](./figures/Fig-001-Intelligence-Before-Representation.png)
 
 The evolutionary perspective leads to the central hypothesis of this paper:
 
@@ -776,6 +766,8 @@ Some intelligent distinctions can occur earlier.
 
 # 15. Per-Function Intelligence Placement
 
+![Fig-002-Evolutionary-MET-and-Intelligence-Placement.png](./figures/Fig-002-Evolutionary-MET-and-Intelligence-Placement.png)
+
 This leads to one of the main engineering principles of HSCI:
 
 # Per-Function Intelligence Placement
@@ -1234,6 +1226,8 @@ This may allow future Brain-Unit AI systems to be simultaneously:
 ---
 
 # 24. Hardware–Software Co-Evolution in Engineered AI
+
+![Fig-004-Hardware-Software-Co-Evolution-Loop.png](./figures/Fig-004-Hardware-Software-Co-Evolution-Loop.png)
 
 Biological evolution requires generations.
 
