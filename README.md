@@ -1436,18 +1436,19 @@ Hardware-Software-Co-Evolution-of-Intelligence/
 ├── README.md
 ├── START-HERE.md
 │
-├── HSCI-001-Hardware-Software-Co-Evolution-of-Intelligence.md
-├── HSCI-002-Resonance-Salience-and-Triggering.md
-├── HSCI-003-From-Hardware-Function-Tunnels-to-Brain-Unit-AI.md
-├── HSCI-004-Intelligence-Before-Representation-in-Autonomous-Drones.md
-│
-├── figures/
-│   ├── Fig-000-HSCI-Grand-Map.png
-│   ├── Fig-001-Intelligence-Before-Representation.png
-│   ├── Fig-002-Evolutionary-MET-and-Intelligence-Placement.png
-│   ├── Fig-003-Resonance-Anchor-Trigger-Organizer.png
-│   ├── Fig-004-Hardware-Software-Co-Evolution-Loop.png
-│   └── Fig-005-Autonomous-Drone-Multi-Substrate-Intelligence.png
+├── docs/
+│    ├── HSCI-001-Hardware-Software-Co-Evolution-of-Intelligence.md
+│    ├── HSCI-002-Resonance-Salience-and-Triggering.md
+│    ├── HSCI-003-From-Hardware-Function-Tunnels-to-Brain-Unit-AI.md
+│    ├── HSCI-004-Intelligence-Before-Representation-in-Autonomous-Drones.md
+│    │
+│    └── figures/
+│         ├── Fig-000-HSCI-Grand-Map.png
+│         ├── Fig-001-Intelligence-Before-Representation.png
+│         ├── Fig-002-Evolutionary-MET-and-Intelligence-Placement.png
+│         ├── Fig-003-Resonance-Anchor-Trigger-Organizer.png
+│         ├── Fig-004-Hardware-Software-Co-Evolution-Loop.png
+│         └── Fig-005-Autonomous-Drone-Multi-Substrate-Intelligence.png
 │
 ├── FIGURE-INDEX.md
 ├── FUTURE-DIRECTIONS.md
